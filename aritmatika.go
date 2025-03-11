@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func aritmatika() {
+func aritmatika(){
 	var tambah float64 = 5 + 10
 	var kurang  float64= 20 - 5
 	kali := 5 * 5
