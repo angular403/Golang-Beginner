@@ -1,18 +1,18 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func tester() {
-	var name string
-	fmt.Print("Input Your Name : ")
-	fmt.Scanln(&name)
-	fmt.Println(name)
+// func tester() {
+// 	var nama string
+// 	fmt.Println("Masukkan Nama Anda : ")
+// 	fmt.Scanln(&nama)
+// 	fmt.Println("Halo " + nama)
 
-	var age int
-	fmt.Print("Input Your Age : ")
-	fmt.Scanln(&age)
-	fmt.Println("Your current age is " + fmt.Sprint(age))
+// 	var umur int
+// 	fmt.Println("Masukkan Umur Anda : ")
+// 	fmt.Scanln(&umur)
+// 	fmt.Println(umur)
 
-	var ageAfter5Years int = age + 5
-	fmt.Println("Your age after 5 years is " + fmt.Sprint(ageAfter5Years))
-}
+// 	var umurLimaTahunKedepan int = umur + 5
+// 	fmt.Println("Umur Anda Lima Tahun Kedepan Adalah : " + fmt.Sprint(umurLimaTahunKedepan) + " Tahun")
+// }
