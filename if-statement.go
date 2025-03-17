@@ -1,8 +1,8 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func statement() {
+// func statement() {
 	// var number int
 
 	// fmt.Print("Masukkan Angkamu : ")
@@ -32,22 +32,22 @@ func statement() {
 	// 	fmt.Println("Maaf Siswamu Belum Lulus")
 	// }
 
-	var x int
-	fmt.Print("Masukkan Nilai Siswamu : ")
-	fmt.Scanln(&x)
+	// var x int
+	// fmt.Print("Masukkan Nilai Siswamu : ")
+	// fmt.Scanln(&x)
 
 
-	if 100 >= x && x >= 90{
-		fmt.Println("Nilai Siswamu adalah A")
-	}else if 90 >= x && x >= 80{
-		fmt.Println("Nilai Siswamu adalah B")
-	}else if 80 >= x && x >= 70 {
-		fmt.Println("Nilai Siswamu adalah C")
-	}else if 70 >= x && x >= 60{
-		fmt.Println("Nilai Siswamu adalah D")
-	}else if 60 >= x && x >= 0{
-		fmt.Println("Nilai Siswamu adalah E")
-	}else{
-		fmt.Println("Nilai Tidak Valid")
-	}
-}
+	// if 100 >= x && x >= 90{
+	// 	fmt.Println("Nilai Siswamu adalah A")
+	// }else if 90 >= x && x >= 80{
+	// 	fmt.Println("Nilai Siswamu adalah B")
+	// }else if 80 >= x && x >= 70 {
+	// 	fmt.Println("Nilai Siswamu adalah C")
+	// }else if 70 >= x && x >= 60{
+	// 	fmt.Println("Nilai Siswamu adalah D")
+	// }else if 60 >= x && x >= 0{
+	// 	fmt.Println("Nilai Siswamu adalah E")
+	// }else{
+	// 	fmt.Println("Nilai Tidak Valid")
+	// }
+// }
