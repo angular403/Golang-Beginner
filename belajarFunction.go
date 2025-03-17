@@ -1,13 +1,13 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func belajarFunction(){
-	sayHello()
-}
+// func belajarFunction(){
+// 	sayHello()
+// }
 
-func sayHello(){
-	for i := 0; i < 10; i++ {
-		fmt.Println("Hello")
-	}
-}
+// func sayHello(){
+// 	for i := 0; i < 10; i++ {
+// 		fmt.Println("Hello")
+// 	}
+// }
